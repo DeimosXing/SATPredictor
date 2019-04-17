@@ -1,0 +1,1 @@
+42931990 12285539 35.0 30.1 35 31 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/shift1add.21964.cnf False False

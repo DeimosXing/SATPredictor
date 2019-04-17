@@ -1,0 +1,1 @@
+4870268 4870268 155 149 158 152 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n12_d5_c4_num6.cnf False False

@@ -1,0 +1,1 @@
+7804783 0 3390 0 3442 0 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n051_goal004.cnf True False

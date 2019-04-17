@@ -1,0 +1,1 @@
+6719855 6031098 723.9 608.7 737 619 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/hid-uns-enc-6-1-0-0-0-0-31380.cnf False False

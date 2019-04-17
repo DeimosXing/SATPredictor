@@ -1,0 +1,1 @@
+3367019 3367019 1365 1346 1387 1367 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n088_goal008.cnf True True

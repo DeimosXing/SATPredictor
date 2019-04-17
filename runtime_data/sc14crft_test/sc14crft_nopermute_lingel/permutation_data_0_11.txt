@@ -1,0 +1,1 @@
+132640 132640 9.2 9.1 11 9 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ndist.b.27485.cnf True True

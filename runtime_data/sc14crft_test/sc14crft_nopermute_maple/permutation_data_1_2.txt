@@ -1,0 +1,1 @@
+218167727 218167727 262 258 271 264 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ndist.b.23992.cnf True True

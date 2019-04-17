@@ -1,0 +1,1 @@
+7960262 7960262 30 29 30 30 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_8x8#22_20.cnf True True

@@ -1,0 +1,1 @@
+6158109 6158109 588 591 596 599 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/sgen4-sat-160-8.cnf True True

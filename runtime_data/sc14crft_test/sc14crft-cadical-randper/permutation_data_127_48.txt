@@ -1,0 +1,1 @@
+1682381 640004 159.1 42.8 162 43 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/jkkk-one-one-10-34-sat.cnf True True

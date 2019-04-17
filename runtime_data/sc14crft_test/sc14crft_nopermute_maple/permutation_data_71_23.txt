@@ -1,0 +1,1 @@
+47352902 43637162 4526 4026 4593 4086 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-60-0-1.cnf False False

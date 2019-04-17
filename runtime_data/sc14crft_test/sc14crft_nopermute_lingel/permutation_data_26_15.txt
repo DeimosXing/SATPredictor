@@ -1,0 +1,1 @@
+6541175 1674561 764.7 122.9 775 124 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/sgen4-sat-160-8.cnf True True

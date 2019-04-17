@@ -1,0 +1,1 @@
+57502925 56782945 3554 3445 3612 3503 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-72-1-1.cnf False False

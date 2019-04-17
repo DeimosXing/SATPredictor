@@ -1,0 +1,1 @@
+11190272 10518890 783.4 755.0 796 766 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/edges-070-3-10062999-36.cnf False False

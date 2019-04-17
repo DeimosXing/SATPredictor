@@ -1,0 +1,1 @@
+477473 850972 56.7 77.3 57 78 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/toughsat_factoring_958s.cnf True True

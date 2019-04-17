@@ -1,0 +1,1 @@
+0 101205718 0 4520.5 0 4592 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-57-1-1.cnf False False

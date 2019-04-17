@@ -1,0 +1,1 @@
+266057 3483509 21.5 120.9 35 132 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/9vliw_m_9stages_iq3_C1_bug3.cnf True True

@@ -1,0 +1,1 @@
+2334065 2371980 124.6 127.5 126 129 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/VanDerWaerden_pd_2-3-20_388.cnf True True

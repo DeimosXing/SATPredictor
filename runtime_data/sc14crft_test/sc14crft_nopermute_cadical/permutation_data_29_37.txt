@@ -1,0 +1,1 @@
+1720249 1199896 190.9 78.2 194 79 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/em_7_4_8_cmp.cnf True True

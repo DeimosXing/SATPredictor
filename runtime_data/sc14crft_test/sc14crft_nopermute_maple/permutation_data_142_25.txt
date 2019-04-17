@@ -1,0 +1,1 @@
+9311513 6440088 4310 2810 4373 2852 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n051_goal004.cnf True True

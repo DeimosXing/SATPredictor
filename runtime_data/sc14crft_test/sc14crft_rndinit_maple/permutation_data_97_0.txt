@@ -1,0 +1,1 @@
+74199181 74199181 2606 2619 2679 2693 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/bvslt_13916.cnf False False

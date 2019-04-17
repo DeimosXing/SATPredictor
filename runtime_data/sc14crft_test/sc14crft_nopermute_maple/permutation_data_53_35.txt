@@ -1,0 +1,1 @@
+81361577 85645150 4601 4988 4673 5065 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-76-1-1.cnf False False

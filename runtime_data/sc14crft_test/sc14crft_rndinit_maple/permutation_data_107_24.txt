@@ -1,0 +1,1 @@
+47946466 47246288 3663 3150 3718 3196 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ccp-s9-facto1.cnf False False

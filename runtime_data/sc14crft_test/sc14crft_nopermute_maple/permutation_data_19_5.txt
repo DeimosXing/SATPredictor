@@ -1,0 +1,1 @@
+56292774 59237290 3863 3926 3928 3992 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-72-1-1.cnf False False

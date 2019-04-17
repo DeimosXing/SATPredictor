@@ -1,0 +1,1 @@
+533962 533962 1.7 1.4 1 1 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_6x6#10_12.cnf True True

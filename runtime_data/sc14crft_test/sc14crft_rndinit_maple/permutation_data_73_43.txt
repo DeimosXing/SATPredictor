@@ -1,0 +1,1 @@
+45687740 45123139 3251 3358 3303 3409 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-63-1-1.cnf False False

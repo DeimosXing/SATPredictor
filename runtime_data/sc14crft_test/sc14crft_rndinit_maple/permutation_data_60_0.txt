@@ -1,0 +1,1 @@
+18124338 18189123 2459 2511 2500 2554 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/5-SATISFIABLE.cnf True True

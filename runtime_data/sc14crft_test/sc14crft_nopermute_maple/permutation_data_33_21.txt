@@ -1,0 +1,1 @@
+7386646 7386646 110 113 112 115 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/EDP3-10000.cnf True True

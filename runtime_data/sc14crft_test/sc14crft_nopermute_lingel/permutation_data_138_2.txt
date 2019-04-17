@@ -1,0 +1,1 @@
+89887992 85939030 1298.5 1146.9 1323 1168 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/008-80-12.cnf True True

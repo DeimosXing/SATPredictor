@@ -1,0 +1,1 @@
+53936006 53936006 3372 3379 3427 3433 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-57-1-1.cnf False False

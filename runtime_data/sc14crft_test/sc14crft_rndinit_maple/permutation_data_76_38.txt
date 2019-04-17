@@ -1,0 +1,1 @@
+22136451 22136451 1212 1218 1231 1237 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/edges-024-4-1208111-1-00.cnf False False

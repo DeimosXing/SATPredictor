@@ -1,0 +1,1 @@
+32262435 34383757 3191 3269 3242 3323 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-54-0-0.cnf False False

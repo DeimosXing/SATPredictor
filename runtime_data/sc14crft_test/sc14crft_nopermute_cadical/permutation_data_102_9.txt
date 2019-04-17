@@ -1,0 +1,1 @@
+4684775 4623222 167.5 155.2 172 159 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n11_d6_c4_num19.cnf False False

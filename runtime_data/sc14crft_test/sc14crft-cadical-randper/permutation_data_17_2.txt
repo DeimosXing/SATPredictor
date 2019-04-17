@@ -1,0 +1,1 @@
+21 88636 0.0 1.6 0 1 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/em_7_4_9_all.cnf True True

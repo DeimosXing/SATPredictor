@@ -1,0 +1,1 @@
+7623943 6706743 642.6 543.7 653 552 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/hid-uns-enc-6-1-0-0-0-0-3251.cnf False False

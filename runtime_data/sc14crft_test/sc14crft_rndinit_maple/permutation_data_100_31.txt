@@ -1,0 +1,1 @@
+35282143 35282143 3006 2982 3058 3028 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-54-1-1.cnf False False

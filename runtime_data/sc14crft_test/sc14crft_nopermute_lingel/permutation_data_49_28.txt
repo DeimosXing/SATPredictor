@@ -1,0 +1,1 @@
+5611260 6041249 3816.4 3854.0 3871 3908 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n088_goal008.cnf True True

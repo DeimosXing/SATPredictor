@@ -1,0 +1,1 @@
+47029445 46909872 3091 3120 3141 3169 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-63-1-1.cnf False False

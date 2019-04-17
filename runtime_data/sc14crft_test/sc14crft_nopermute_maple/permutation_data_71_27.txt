@@ -1,0 +1,1 @@
+49327303 48670686 4437 4120 4499 4181 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-60-0-1.cnf False False

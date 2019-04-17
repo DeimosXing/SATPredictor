@@ -1,0 +1,1 @@
+7617384 9748670 3526 4270 3577 4333 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n051_goal004.cnf True True

@@ -1,0 +1,1 @@
+4684775 4700454 171.5 177.5 176 182 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n11_d6_c4_num19.cnf False False

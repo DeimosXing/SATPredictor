@@ -1,0 +1,1 @@
+0 10085336 0 2569 0 2607 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/toughsat_factoring_inf.cnf False True

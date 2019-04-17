@@ -1,0 +1,1 @@
+3063314 3063314 16 17 17 17 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_6x6#16_16.cnf True True

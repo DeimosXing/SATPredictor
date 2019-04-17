@@ -1,0 +1,1 @@
+82183242 84450573 4378 4787 4446 4861 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-76-1-1.cnf False False

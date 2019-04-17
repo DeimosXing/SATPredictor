@@ -1,0 +1,1 @@
+2247633 2247633 312 322 317 327 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/hid-uns-enc-6-1-0-0-0-0-26462.cnf False False

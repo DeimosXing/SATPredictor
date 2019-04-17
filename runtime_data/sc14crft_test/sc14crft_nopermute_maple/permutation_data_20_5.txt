@@ -1,0 +1,1 @@
+53925524 54105245 3460 3428 3527 3490 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-61-1-1.cnf False False

@@ -1,0 +1,1 @@
+47246288 47246288 3147 3163 3190 3207 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ccp-s9-facto1.cnf False False

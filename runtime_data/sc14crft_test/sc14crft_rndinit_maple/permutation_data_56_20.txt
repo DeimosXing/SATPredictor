@@ -1,0 +1,1 @@
+66634185 62264904 4628 4399 4702 4467 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-68-1-1.cnf False False

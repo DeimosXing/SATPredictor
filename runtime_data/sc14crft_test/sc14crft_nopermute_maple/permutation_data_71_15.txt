@@ -1,0 +1,1 @@
+45568178 48033407 4500 4652 4565 4721 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-60-0-1.cnf False False

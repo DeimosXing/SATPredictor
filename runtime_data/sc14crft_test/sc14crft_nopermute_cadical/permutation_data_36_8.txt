@@ -1,0 +1,1 @@
+0 177760314 0 4193.0 0 4261 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_8x8#20_24.cnf False True

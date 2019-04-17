@@ -1,0 +1,1 @@
+34969026 34969026 3586 3599 3647 3660 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/Hidoku_enu_7.cnf True True

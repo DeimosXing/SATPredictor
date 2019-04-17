@@ -1,0 +1,1 @@
+74226562 74226562 2340 2329 2379 2366 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/bvslt_13916.cnf False False

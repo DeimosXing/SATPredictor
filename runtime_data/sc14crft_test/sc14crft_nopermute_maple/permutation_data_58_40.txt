@@ -1,0 +1,1 @@
+15304440 15449302 2649 2612 2688 2650 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/Robertson-k8.cnf False False

@@ -1,0 +1,1 @@
+36663347 36663347 2842 2824 2895 2876 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-46-1-1.cnf False False

@@ -1,0 +1,1 @@
+40770965 39791308 2406.4 2484.1 2445 2524 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/Robertson-k8.cnf False False

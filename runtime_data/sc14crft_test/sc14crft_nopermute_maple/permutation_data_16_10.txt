@@ -1,0 +1,1 @@
+4204330 4204330 37 37 38 38 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_8x8#24_12.cnf True True

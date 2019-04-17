@@ -1,0 +1,1 @@
+109779505 126251749 5000.0 5000.0 5111 5078 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/MD5-28-5.cnf True True

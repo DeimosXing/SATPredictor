@@ -1,0 +1,1 @@
+83989 7715124 0.2 14.7 0 15 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ndist.b.20998.cnf True True

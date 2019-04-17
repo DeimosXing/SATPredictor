@@ -1,0 +1,1 @@
+664707 1274670 2.5 8.7 2 9 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_6x6#14_12.cnf True True

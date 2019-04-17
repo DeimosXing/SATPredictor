@@ -1,0 +1,1 @@
+221 221 1.5 1.5 2 1 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/complete-500-0.1-8-9876543215008.cnf True True

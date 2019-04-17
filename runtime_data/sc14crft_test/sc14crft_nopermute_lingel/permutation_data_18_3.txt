@@ -1,0 +1,1 @@
+5572970 8789721 2571.1 4413.5 2607 4474 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n045_goal003.cnf True True

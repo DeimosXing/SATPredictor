@@ -1,0 +1,1 @@
+799562 799562 54 54 56 56 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/em_7_4_8_cmp.cnf True True

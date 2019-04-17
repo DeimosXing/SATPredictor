@@ -1,0 +1,1 @@
+919921 1941893 116.8 242.5 118 246 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ezfact64_3.sat05-450.reshuffled-07.cnf True True

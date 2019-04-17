@@ -1,0 +1,1 @@
+55458524 55534962 3345 3242 3400 3291 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-57-1-1.cnf False False

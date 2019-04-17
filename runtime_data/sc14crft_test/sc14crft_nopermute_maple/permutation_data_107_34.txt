@@ -1,0 +1,1 @@
+40335030 40512848 3281 3019 3330 3064 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ccp-s9-facto1.cnf False False

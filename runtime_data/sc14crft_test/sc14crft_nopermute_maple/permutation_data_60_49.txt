@@ -1,0 +1,1 @@
+17333119 17333119 2221 2013 2255 2045 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/5-SATISFIABLE.cnf True True

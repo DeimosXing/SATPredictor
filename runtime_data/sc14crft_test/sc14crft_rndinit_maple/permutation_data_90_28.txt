@@ -1,0 +1,1 @@
+32871931 34777389 2701 2701 2741 2740 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-47-1-1.cnf False False

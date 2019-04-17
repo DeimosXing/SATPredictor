@@ -1,0 +1,1 @@
+74134292 74368011 2583 2591 2627 2638 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/bvslt_13916.cnf False False

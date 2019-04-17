@@ -1,0 +1,1 @@
+41376471 47893628 802.1 934.4 814 947 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_8x8#20_24.cnf True True

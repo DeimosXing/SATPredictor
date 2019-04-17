@@ -1,0 +1,1 @@
+4376350 3925609 875.1 943.8 893 963 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/ACG-20-10p1.cnf True True

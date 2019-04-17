@@ -1,0 +1,1 @@
+4403012 8389052 3109 4731 3156 4802 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n052_goal004.cnf True True

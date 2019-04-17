@@ -1,0 +1,1 @@
+6072755 5921936 4070 3928 4133 3987 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n052_goal004.cnf True True

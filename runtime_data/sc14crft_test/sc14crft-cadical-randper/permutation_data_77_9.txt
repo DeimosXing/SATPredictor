@@ -1,0 +1,1 @@
+8263342 10402449 301.1 401.1 308 410 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n12_d6_c4_num23.cnf False False

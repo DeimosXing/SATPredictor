@@ -1,0 +1,1 @@
+482991 482991 21 21 22 22 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/em_7_4_9_fbc.cnf True True

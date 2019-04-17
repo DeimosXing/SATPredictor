@@ -1,0 +1,1 @@
+35106521 35735752 3006 2967 3054 3014 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-54-1-1.cnf False False

@@ -1,0 +1,1 @@
+330275413 477908855 215.9 296.0 220 301 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/bvslt_19860.cnf False False

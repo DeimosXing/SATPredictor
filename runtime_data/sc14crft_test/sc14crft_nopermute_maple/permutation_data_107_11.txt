@@ -1,0 +1,1 @@
+40976824 44042548 3106 3650 3152 3705 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ccp-s9-facto1.cnf False False

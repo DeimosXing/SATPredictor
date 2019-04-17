@@ -1,0 +1,1 @@
+10802495 0 3016 0 3062 0 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/toughsat_factoring_inf.cnf True False

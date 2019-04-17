@@ -1,0 +1,1 @@
+6025681 17297710 68.9 190.4 70 193 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_8x8#16_16.cnf True True

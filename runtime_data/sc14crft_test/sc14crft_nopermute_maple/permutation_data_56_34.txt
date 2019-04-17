@@ -1,0 +1,1 @@
+65894320 64341828 4328 4330 4399 4398 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-68-1-1.cnf False False

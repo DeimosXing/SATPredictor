@@ -1,0 +1,1 @@
+87244792 0 4924 0 5003 0 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-76-1-1.cnf False False

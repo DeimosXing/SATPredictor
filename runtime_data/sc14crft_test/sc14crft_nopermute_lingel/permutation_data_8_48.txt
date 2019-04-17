@@ -1,0 +1,1 @@
+8682984 9048399 1202.7 2040.0 1219 2068 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/jkkk-random-132906006427000-10-10-36-SUM-sat.cnf True True

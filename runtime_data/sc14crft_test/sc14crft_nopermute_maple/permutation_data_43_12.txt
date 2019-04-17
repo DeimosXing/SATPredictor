@@ -1,0 +1,1 @@
+6052956 6052956 26 25 26 26 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/prime2209-98.cnf True True

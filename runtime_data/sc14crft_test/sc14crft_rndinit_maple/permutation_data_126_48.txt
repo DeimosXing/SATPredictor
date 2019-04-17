@@ -1,0 +1,1 @@
+16645637 16645637 2104 2081 2141 2117 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/EDP3-13000.cnf True True

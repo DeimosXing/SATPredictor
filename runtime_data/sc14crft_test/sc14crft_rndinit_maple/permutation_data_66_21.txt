@@ -1,0 +1,1 @@
+55369834 55519343 3355 3419 3411 3474 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-57-1-1.cnf False False

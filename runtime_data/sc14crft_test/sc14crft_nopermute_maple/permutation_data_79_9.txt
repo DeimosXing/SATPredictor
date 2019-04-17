@@ -1,0 +1,1 @@
+20002522 20637141 2709 2724 2751 2768 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-42-0-0.cnf False False

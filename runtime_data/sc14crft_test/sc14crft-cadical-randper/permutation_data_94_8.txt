@@ -1,0 +1,1 @@
+8537576 3104241 839.5 227.3 852 230 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mod2c-rand3bip-sat-240-3.shuffled-as.sat05-2520.cnf True True

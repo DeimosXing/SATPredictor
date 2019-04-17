@@ -1,0 +1,1 @@
+21996930 18936396 2800.5 2186.4 2843 2219 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mod2-rand3bip-sat-270-2.sat05-2249.reshuffled-07.cnf True True

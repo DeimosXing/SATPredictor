@@ -1,0 +1,1 @@
+38484091 37384896 2792 2762 2834 2805 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-46-1-1.cnf False False

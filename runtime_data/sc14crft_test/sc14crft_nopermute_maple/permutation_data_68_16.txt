@@ -1,0 +1,1 @@
+77147781 77147781 298 293 303 298 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/shift1add.25952.cnf False False

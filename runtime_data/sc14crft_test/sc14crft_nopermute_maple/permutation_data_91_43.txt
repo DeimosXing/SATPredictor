@@ -1,0 +1,1 @@
+14490573 14490573 43 41 44 42 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/shift1add.15982.cnf False False

@@ -1,0 +1,1 @@
+214203586 214203586 250 244 255 248 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ndist.b.25489.cnf True True

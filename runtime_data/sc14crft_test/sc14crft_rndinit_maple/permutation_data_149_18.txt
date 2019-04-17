@@ -1,0 +1,1 @@
+1503855 1503855 7 7 8 7 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_6x6#14_12.cnf True True

@@ -1,0 +1,1 @@
+22728508 18124338 4003 2450 4067 2491 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/5-SATISFIABLE.cnf True True

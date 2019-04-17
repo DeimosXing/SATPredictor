@@ -1,0 +1,1 @@
+0 18999979 0 2499 0 2532 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/Hidoku_enu_7.cnf False True

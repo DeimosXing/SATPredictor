@@ -1,0 +1,1 @@
+47686 4944 0.9 0.0 1 0 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/Chvatal-k5.cnf True True

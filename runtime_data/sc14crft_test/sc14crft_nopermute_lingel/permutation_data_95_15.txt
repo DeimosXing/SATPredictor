@@ -1,0 +1,1 @@
+1115908 449934 257.8 59.1 261 60 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ezfact64_3.sat05-450.reshuffled-07.cnf True True

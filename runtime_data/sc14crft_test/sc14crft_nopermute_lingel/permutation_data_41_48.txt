@@ -1,0 +1,1 @@
+52443108 44429721 4067.3 3496.5 4124 3546 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/Hidoku_enu_7.cnf True True

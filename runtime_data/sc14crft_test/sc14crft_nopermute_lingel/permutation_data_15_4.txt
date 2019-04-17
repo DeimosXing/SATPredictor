@@ -1,0 +1,1 @@
+302636 1729933 26.4 70.4 35 80 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/9vliw_m_9stages_iq3_C1_bug1.cnf True True

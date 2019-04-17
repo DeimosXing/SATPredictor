@@ -1,0 +1,1 @@
+59661020 55577575 3508 3431 3562 3482 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-61-1-1.cnf False False

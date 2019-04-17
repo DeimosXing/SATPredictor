@@ -1,0 +1,1 @@
+184289 184289 9.2 9.0 9 9 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/toughsat_factoring_958s.cnf True True

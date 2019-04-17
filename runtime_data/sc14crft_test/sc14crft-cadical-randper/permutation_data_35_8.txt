@@ -1,0 +1,1 @@
+4255562 5126405 54.5 61.6 56 64 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_6x6#10_20.cnf True True

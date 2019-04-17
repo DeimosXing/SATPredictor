@@ -1,0 +1,1 @@
+3055677 3316160 119.1 213.0 122 218 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n10_d6_c3_num5.cnf False False

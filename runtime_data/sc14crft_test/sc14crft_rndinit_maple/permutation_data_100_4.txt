@@ -1,0 +1,1 @@
+34335988 34265561 3048 3043 3096 3091 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-54-1-1.cnf False False

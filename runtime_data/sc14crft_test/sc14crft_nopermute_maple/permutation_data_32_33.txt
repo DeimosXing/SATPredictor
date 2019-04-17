@@ -1,0 +1,1 @@
+5532317 5532317 336 328 343 334 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n11_d6_c3_num17.cnf False False

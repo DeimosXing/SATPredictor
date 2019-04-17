@@ -1,0 +1,1 @@
+53290291 63339705 2078.6 3527.7 2112 3584 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-54-0-0.cnf False False

@@ -1,0 +1,1 @@
+7022126 7022126 61 61 62 62 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/EDP3-9000.cnf True True

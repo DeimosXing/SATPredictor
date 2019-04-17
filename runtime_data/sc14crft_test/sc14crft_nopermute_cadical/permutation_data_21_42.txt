@@ -1,0 +1,1 @@
+619041 559016 20.5 15.3 21 15 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/em_7_4_9_fbc.cnf True True

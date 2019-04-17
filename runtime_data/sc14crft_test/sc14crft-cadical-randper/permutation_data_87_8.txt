@@ -1,0 +1,1 @@
+5117021 5545124 87.6 76.3 89 78 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n12_d5_c4_num6.cnf False False

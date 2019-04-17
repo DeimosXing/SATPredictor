@@ -1,0 +1,1 @@
+74074953 74074953 2133 2198 2166 2232 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/bvslt_13916.cnf False False

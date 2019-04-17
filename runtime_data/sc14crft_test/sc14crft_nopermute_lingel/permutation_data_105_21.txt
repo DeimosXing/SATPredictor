@@ -1,0 +1,1 @@
+1061546 3380538 373.5 1390.8 378 1410 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n052_goal004.cnf True True

@@ -1,0 +1,1 @@
+15098616 19122815 1092.9 1978.3 1108 2006 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crn_20_361_s.cnf True True

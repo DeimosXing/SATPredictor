@@ -1,0 +1,1 @@
+46366775 47960081 3087 3152 3136 3200 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-63-1-1.cnf False False

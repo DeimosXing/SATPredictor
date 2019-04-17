@@ -1,0 +1,1 @@
+1053908 1053908 126 125 128 127 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/hid-uns-enc-6-1-0-0-0-0-31380.cnf False False

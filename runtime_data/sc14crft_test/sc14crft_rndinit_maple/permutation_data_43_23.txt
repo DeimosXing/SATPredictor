@@ -1,0 +1,1 @@
+6053916 6053916 24 24 25 24 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/prime2209-98.cnf True True

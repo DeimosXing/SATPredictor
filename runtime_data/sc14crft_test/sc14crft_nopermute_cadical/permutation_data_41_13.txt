@@ -1,0 +1,1 @@
+104825523 131383929 3473.0 4753.1 3532 4833 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/Hidoku_enu_7.cnf True True

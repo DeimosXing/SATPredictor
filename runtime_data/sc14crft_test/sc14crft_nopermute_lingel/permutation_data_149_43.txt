@@ -1,0 +1,1 @@
+313442 518218 3.9 5.5 4 5 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_6x6#14_12.cnf True True

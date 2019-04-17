@@ -1,0 +1,1 @@
+11190562 12139241 2559 2625 2602 2670 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/jkkk-one-one-10-34-sat.cnf True True

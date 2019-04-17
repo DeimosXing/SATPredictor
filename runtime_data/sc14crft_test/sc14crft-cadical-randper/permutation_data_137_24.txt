@@ -1,0 +1,1 @@
+1372814 1421588 125.2 116.6 127 119 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n10_d6_c2_num13.cnf False False

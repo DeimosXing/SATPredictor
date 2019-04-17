@@ -1,0 +1,1 @@
+5426427 5426427 877 897 890 910 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rbsat-v1150c84314gyes4.cnf True True

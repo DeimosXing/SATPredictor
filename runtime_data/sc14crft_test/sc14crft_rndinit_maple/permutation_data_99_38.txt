@@ -1,0 +1,1 @@
+108363605 108363605 4860 4988 4937 5066 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/bvult_16967.cnf False False

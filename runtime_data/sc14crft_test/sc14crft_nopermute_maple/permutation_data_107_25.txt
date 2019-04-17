@@ -1,0 +1,1 @@
+43201224 41731835 3311 3079 3359 3123 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ccp-s9-facto1.cnf False False

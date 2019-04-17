@@ -1,0 +1,1 @@
+16625452 4315666 3080.8 531.8 3124 539 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/frb80-14-2.used-as.sat04-880.cnf True True

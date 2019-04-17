@@ -1,0 +1,1 @@
+30947820 32283168 3180 3358 3233 3410 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-54-0-0.cnf False False

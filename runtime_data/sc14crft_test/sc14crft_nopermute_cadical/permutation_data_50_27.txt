@@ -1,0 +1,1 @@
+9238292 7723911 905.6 707.2 922 718 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/hid-uns-enc-6-1-0-0-0-0-26462.cnf False False

@@ -1,0 +1,1 @@
+13636 8555 0.2 0.6 0 0 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rnd-v25-e13-k3.cnf True True

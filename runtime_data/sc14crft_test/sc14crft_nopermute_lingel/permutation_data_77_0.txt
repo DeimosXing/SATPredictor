@@ -1,0 +1,1 @@
+8835346 6534910 828.5 594.9 845 606 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/slp-synthesis-aes-top29.cnf True True

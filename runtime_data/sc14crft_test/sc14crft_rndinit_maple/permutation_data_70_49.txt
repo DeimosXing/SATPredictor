@@ -1,0 +1,1 @@
+14343433 14343433 1537 1486 1559 1507 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mod2-rand3bip-sat-270-1.sat05-2248.reshuffled-07.cnf True True

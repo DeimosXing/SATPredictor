@@ -1,0 +1,1 @@
+0 14982468 0 501.4 0 509 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ccp-s9-facto1.cnf False False

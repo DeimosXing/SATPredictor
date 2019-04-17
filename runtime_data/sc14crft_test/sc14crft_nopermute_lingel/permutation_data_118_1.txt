@@ -1,0 +1,1 @@
+9522212 8523088 14.9 16.8 15 17 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ndist.b.20998.cnf True True

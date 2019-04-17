@@ -1,0 +1,1 @@
+3684394 4414540 587.6 805.5 601 822 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/UCG-20-10p1.cnf True True

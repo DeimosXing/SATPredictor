@@ -1,0 +1,1 @@
+7650210 8576344 12.3 12.6 12 13 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ndist.b.25489.cnf True True

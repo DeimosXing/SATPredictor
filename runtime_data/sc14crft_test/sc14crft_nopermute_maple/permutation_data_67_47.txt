@@ -1,0 +1,1 @@
+2424302 2424302 167 168 169 170 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/edges-070-3-7857777-1.cnf False False

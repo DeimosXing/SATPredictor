@@ -1,0 +1,1 @@
+3462899 2172403 144.9 109.2 154 112 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/transport-transport-city-sequential-25nodes-1000size-3degree-100mindistance-3trucks-10packages-2008seed.020-NOTKNOWN.cnf True True

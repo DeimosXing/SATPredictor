@@ -1,0 +1,1 @@
+34165191 33921167 2991 2970 3042 3019 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-54-1-1.cnf False False

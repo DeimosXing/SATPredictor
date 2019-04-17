@@ -1,0 +1,1 @@
+9778796 0 4711 0 4783 0 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n051_goal004.cnf True False

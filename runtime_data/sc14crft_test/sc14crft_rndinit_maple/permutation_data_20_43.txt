@@ -1,0 +1,1 @@
+52084639 52084639 3441 3391 3799 3747 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-61-1-1.cnf False False

@@ -1,0 +1,1 @@
+81536444 84067594 4629 4771 4700 4843 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-76-1-1.cnf False False

@@ -1,0 +1,1 @@
+58507990 57787203 3611 3522 3666 3576 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-61-1-1.cnf False False

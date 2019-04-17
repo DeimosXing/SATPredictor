@@ -1,0 +1,1 @@
+3224319 2802987 35.4 30.1 36 30 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_6x6#16_16.cnf True True

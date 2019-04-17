@@ -1,0 +1,1 @@
+1834871 1721506 45.8 52.5 46 53 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/EDP3-9000.cnf True True

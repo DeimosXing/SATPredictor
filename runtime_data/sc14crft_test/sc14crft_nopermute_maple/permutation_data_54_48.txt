@@ -1,0 +1,1 @@
+12084382 12084382 272 272 279 278 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/em_14_7_3_cmp.cnf True True

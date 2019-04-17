@@ -1,0 +1,1 @@
+3575963 3575963 12 13 13 13 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_8x8#16_12.cnf True True

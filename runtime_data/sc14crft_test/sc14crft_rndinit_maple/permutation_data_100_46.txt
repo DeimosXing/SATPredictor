@@ -1,0 +1,1 @@
+34580897 34580897 3021 3072 3067 3120 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-54-1-1.cnf False False

@@ -1,0 +1,1 @@
+19003990 509815 16.2 14.0 16 14 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/shift1add.10000.cnf False False

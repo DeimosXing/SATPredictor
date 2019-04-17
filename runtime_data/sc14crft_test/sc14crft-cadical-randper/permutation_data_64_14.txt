@@ -1,0 +1,1 @@
+0 17437002 0 2425.7 0 2463 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rbsat-v1150c84314gyes10.cnf False True

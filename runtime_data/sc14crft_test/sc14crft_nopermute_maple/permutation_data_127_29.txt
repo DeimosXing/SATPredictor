@@ -1,0 +1,1 @@
+10672001 11219347 2524 2560 2567 2605 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/jkkk-one-one-10-34-sat.cnf True True

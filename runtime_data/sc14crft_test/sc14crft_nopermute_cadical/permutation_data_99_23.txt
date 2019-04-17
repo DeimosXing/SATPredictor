@@ -1,0 +1,1 @@
+824167975 731654317 567.6 437.4 577 445 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/bvult_16967.cnf False False

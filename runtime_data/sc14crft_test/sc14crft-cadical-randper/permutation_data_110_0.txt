@@ -1,0 +1,1 @@
+309800 1972500 12.3 38.9 13 39 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/EDP3-8000.cnf True True

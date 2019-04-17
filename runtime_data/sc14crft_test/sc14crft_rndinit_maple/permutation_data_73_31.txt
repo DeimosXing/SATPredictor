@@ -1,0 +1,1 @@
+45311835 45311835 3301 3217 3355 3268 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-63-1-1.cnf False False

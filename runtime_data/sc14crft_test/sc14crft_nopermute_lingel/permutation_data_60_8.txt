@@ -1,0 +1,1 @@
+2376111 3267832 2900.9 4913.1 2945 4985 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/5-SATISFIABLE.cnf True True

@@ -1,0 +1,1 @@
+44556745 42554222 4294.0 3948.7 4358 4007 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/edges-025-4-3369333-1-00.cnf False False

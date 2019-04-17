@@ -1,0 +1,1 @@
+9018306 0 4169 0 4229 0 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n051_goal004.cnf True False

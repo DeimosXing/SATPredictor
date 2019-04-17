@@ -1,0 +1,1 @@
+0 11452599 0 3294.7 0 3340 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/jkkk-random-132906006493326-10-10-35-OR-sat.cnf False True

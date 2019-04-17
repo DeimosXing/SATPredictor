@@ -1,0 +1,1 @@
+4684775 8130735 174.9 234.9 179 240 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n11_d6_c4_num19.cnf False False

@@ -1,0 +1,1 @@
+47221200 41443865 4973 4068 5051 4132 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-60-0-1.cnf False False

@@ -1,0 +1,1 @@
+5978510 11565570 625.2 1138.4 636 1157 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/5-SATISFIABLE.cnf True True

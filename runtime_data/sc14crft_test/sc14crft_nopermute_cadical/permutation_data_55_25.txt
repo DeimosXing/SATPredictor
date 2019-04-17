@@ -1,0 +1,1 @@
+18779131 22049333 170.2 165.6 173 168 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crn_20_361_s.cnf True True

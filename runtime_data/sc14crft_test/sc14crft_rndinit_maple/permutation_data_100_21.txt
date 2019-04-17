@@ -1,0 +1,1 @@
+35800543 34977737 2965 2933 3013 2977 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-54-1-1.cnf False False

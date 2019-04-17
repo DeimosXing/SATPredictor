@@ -1,0 +1,1 @@
+0 16411516 0 1409.0 0 1429 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mod2-rand3bip-sat-270-1.sat05-2248.reshuffled-07.cnf False True

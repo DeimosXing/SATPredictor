@@ -1,0 +1,1 @@
+72993 152178 3.9 9.1 4 9 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/em_7_4_9_all.cnf True True

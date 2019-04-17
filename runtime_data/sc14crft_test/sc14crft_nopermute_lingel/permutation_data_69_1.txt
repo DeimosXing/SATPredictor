@@ -1,0 +1,1 @@
+3570281 4775128 435.5 447.5 449 460 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/grid-strips-grid-y-3.055-NOTKNOWN.cnf True True

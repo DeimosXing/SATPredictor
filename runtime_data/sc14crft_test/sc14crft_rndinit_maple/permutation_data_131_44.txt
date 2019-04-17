@@ -1,0 +1,1 @@
+31799496 31799496 1828 1878 1856 1907 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/edges-025-4-3369333-1-00.cnf False False

@@ -1,0 +1,1 @@
+0 48670686 0 4093 0 4155 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-60-0-1.cnf False False

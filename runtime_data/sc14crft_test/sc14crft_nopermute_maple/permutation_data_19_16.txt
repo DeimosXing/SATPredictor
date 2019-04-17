@@ -1,0 +1,1 @@
+56159314 56373390 3909 3802 3973 3864 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-72-1-1.cnf False False

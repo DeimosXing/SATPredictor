@@ -1,0 +1,1 @@
+21138403 20056147 3515 3135 3566 3184 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/5-SATISFIABLE.cnf True True

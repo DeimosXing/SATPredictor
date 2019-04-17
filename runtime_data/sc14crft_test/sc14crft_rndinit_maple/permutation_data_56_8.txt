@@ -1,0 +1,1 @@
+61387492 61387492 4763 4772 4840 4847 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-68-1-1.cnf False False

@@ -1,0 +1,1 @@
+33632961 33632961 1936 1899 1962 1927 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/edges-025-4-10169999-1-00.cnf False False

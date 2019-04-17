@@ -1,0 +1,1 @@
+8426338 8426338 99 98 101 99 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/EDP3-11000.cnf True True

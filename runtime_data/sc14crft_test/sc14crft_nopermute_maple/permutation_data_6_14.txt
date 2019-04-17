@@ -1,0 +1,1 @@
+26656770 26656770 185 182 188 185 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/shift1add.21964.cnf False False

@@ -1,0 +1,1 @@
+800014 800014 7 7 9 7 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_4x4#8_16.cnf True True

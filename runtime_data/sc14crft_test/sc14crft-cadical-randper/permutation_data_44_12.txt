@@ -1,0 +1,1 @@
+573697 2025110 285.5 2025.0 290 2056 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n081_goal007.cnf True True

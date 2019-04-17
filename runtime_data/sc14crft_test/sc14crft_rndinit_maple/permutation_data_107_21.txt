@@ -1,0 +1,1 @@
+46302000 46755368 3386 3289 3442 3342 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ccp-s9-facto1.cnf False False

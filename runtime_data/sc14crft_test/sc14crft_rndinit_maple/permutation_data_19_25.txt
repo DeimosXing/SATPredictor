@@ -1,0 +1,1 @@
+53064002 53889472 4049 4418 4120 4491 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-72-1-1.cnf False False

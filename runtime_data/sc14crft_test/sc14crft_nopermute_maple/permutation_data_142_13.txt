@@ -1,0 +1,1 @@
+7786525 7617389 3626 3406 3681 3459 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n051_goal004.cnf True True

@@ -1,0 +1,1 @@
+25462 47798 11.5 9.6 11 10 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/prime2209-98.cnf True True

@@ -1,0 +1,1 @@
+82095150 82095150 4858 4789 4935 4863 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-76-1-1.cnf False False

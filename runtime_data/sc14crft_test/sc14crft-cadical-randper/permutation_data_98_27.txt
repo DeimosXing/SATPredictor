@@ -1,0 +1,1 @@
+0 0 0 0 0 0 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/fsf-300-354-2-2-3-2.94.opt.cnf False False

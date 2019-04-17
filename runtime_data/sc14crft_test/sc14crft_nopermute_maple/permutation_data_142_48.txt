@@ -1,0 +1,1 @@
+9600482 9748074 4596 4660 4665 4731 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n051_goal004.cnf True True

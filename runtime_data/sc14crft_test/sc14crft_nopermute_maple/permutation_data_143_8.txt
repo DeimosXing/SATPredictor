@@ -1,0 +1,1 @@
+55981870 55600807 3236 3256 3287 3307 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-65-1-1.cnf False False

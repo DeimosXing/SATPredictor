@@ -1,0 +1,1 @@
+16130604 15526858 1105.2 1114.7 1121 1131 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-40-0-0.cnf False False

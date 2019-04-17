@@ -1,0 +1,1 @@
+8323498 8841956 3469 3949 3529 4017 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n044_goal003.cnf True True

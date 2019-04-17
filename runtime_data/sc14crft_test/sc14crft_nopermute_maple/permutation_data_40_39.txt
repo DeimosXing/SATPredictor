@@ -1,0 +1,1 @@
+3707353 3707353 37 35 38 36 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_8x8#24_11.cnf False False

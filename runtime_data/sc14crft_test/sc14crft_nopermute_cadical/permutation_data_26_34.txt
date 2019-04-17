@@ -1,0 +1,1 @@
+0 6239175 0 753.5 0 765 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/sgen4-sat-160-8.cnf False True

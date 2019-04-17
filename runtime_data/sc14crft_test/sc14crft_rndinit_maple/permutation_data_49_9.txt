@@ -1,0 +1,1 @@
+3376698 3376698 1460 1458 1483 1481 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n088_goal008.cnf True True

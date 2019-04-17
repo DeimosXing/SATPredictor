@@ -1,0 +1,1 @@
+304053746 340648171 107.2 151.5 109 154 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/bvashr_0710.cnf False False

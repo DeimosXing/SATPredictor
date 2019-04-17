@@ -1,0 +1,1 @@
+116384705 117860704 4995.9 4996.1 5096 5081 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/14pipe_q0_k.cnf True True

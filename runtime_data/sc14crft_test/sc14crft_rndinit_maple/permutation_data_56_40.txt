@@ -1,0 +1,1 @@
+63551900 62264904 4819 4411 4898 4488 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-68-1-1.cnf False False

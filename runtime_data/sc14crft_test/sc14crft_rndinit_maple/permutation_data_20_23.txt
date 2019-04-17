@@ -1,0 +1,1 @@
+55150914 56309790 3420 3443 3472 3496 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-61-1-1.cnf False False

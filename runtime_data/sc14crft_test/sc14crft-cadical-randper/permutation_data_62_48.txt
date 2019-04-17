@@ -1,0 +1,1 @@
+3310949 6056986 468.4 770.0 477 782 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n10_d6_c3_num1.cnf False False

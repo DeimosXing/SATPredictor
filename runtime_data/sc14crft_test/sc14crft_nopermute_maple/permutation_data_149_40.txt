@@ -1,0 +1,1 @@
+1595801 1595801 8 8 9 8 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_6x6#14_12.cnf True True

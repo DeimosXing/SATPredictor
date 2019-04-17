@@ -1,0 +1,1 @@
+20071472 20071472 1068 1098 1084 1115 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/edges-025-4-3369333-1-00.cnf False False

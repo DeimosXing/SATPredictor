@@ -1,0 +1,1 @@
+21 314473 0.0 8.7 0 9 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/em_7_4_9_all.cnf True True

@@ -1,0 +1,1 @@
+4326312 7674169 202.8 236.9 208 243 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n12_d6_c4_num4.cnf False False

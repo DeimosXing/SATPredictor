@@ -1,0 +1,1 @@
+2075290 2065433 133.6 125.0 137 128 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n11_d6_c3_num17.cnf False False

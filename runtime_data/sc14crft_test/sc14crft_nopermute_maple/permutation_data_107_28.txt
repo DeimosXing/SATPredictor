@@ -1,0 +1,1 @@
+43201224 43201224 3316 3312 3367 3362 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ccp-s9-facto1.cnf False False

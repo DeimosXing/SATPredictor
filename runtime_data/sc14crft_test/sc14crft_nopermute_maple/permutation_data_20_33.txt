@@ -1,0 +1,1 @@
+54136537 56456247 3455 3644 3517 3703 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-61-1-1.cnf False False

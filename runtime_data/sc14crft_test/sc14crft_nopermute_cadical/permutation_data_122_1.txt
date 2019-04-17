@@ -1,0 +1,1 @@
+55106241 42210953 2143.9 1244.3 2174 1265 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-46-1-1.cnf False False

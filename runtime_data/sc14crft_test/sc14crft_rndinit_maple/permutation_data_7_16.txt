@@ -1,0 +1,1 @@
+840156 840156 6 6 7 7 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/Chvatal-k5.cnf True True

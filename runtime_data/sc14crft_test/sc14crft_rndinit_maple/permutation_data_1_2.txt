@@ -1,0 +1,1 @@
+215089135 215089135 310 297 316 301 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ndist.b.23992.cnf True True

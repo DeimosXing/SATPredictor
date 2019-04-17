@@ -1,0 +1,1 @@
+47072328 47072328 3194 3177 3244 3226 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-63-1-1.cnf False False

@@ -1,0 +1,1 @@
+52868662 53794157 3305 3170 3354 3217 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-57-1-1.cnf False False

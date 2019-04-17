@@ -1,0 +1,1 @@
+5224169 4403012 3470 3146 3522 3192 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n052_goal004.cnf True True

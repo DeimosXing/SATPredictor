@@ -1,0 +1,1 @@
+38570515 38521593 3553 3470 3602 3523 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-54-0-0.cnf False False

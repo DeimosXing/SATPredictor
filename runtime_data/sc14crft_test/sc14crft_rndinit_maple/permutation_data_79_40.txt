@@ -1,0 +1,1 @@
+21703795 22110598 2777 2734 2820 2775 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-42-0-0.cnf False False

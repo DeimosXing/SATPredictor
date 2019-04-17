@@ -1,0 +1,1 @@
+0 108363605 0 4800 0 4872 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/bvult_16967.cnf False False

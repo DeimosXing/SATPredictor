@@ -1,0 +1,1 @@
+406917 581579 16.0 40.9 16 41 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/em_7_4_9_fbc.cnf True True

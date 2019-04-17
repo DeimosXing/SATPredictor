@@ -1,0 +1,1 @@
+3310949 6357441 502.8 703.9 511 716 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n10_d6_c3_num1.cnf False False

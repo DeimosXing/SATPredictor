@@ -1,0 +1,1 @@
+11660588 11660588 49 49 50 50 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_8x8#20_24.cnf True True

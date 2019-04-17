@@ -1,0 +1,1 @@
+4386144 19184255 737.8 5000.0 752 5096 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/vmpc_32.renamed-as.sat05-1919.cnf True True

@@ -1,0 +1,1 @@
+0 21226753 0 3477.7 0 3525 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/sgen3-n220-s24359701-sat.cnf False True

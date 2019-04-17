@@ -1,0 +1,1 @@
+2493486 2493486 1529 1549 1551 1571 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n052_goal004.cnf True True

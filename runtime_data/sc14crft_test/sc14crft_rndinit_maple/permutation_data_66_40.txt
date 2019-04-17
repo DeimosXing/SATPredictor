@@ -1,0 +1,1 @@
+55408939 55013888 3347 3217 3400 3265 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-57-1-1.cnf False False

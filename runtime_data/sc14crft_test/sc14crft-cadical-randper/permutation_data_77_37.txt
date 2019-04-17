@@ -1,0 +1,1 @@
+8263342 9129194 316.3 495.5 324 506 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n12_d6_c4_num23.cnf False False

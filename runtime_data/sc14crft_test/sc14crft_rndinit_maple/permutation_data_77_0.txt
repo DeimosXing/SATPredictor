@@ -1,0 +1,1 @@
+7606740 7606740 423 424 432 432 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n12_d6_c4_num23.cnf False False

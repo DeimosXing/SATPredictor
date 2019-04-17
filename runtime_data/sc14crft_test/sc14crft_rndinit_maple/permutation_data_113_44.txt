@@ -1,0 +1,1 @@
+35354893 35354893 3637 3641 3813 3814 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-54-0-0.cnf False False

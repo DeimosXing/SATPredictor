@@ -1,0 +1,1 @@
+24110390 62508915 172.2 631.4 177 644 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/002-80-8.cnf True True

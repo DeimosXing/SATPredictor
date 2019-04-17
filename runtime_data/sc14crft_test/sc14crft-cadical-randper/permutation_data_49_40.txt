@@ -1,0 +1,1 @@
+355525 1345608 406.2 1619.2 414 1645 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n088_goal008.cnf True True

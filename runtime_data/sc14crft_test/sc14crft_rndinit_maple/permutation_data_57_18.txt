@@ -1,0 +1,1 @@
+19300227 19300227 941 976 955 991 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/edges-024-4-10183999-1-00.cnf False False

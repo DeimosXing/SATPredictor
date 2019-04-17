@@ -1,0 +1,1 @@
+14301955 14301955 194 189 199 194 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n12_d6_c4_num4.cnf False False

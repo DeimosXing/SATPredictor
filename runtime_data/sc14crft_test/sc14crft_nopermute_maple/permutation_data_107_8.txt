@@ -1,0 +1,1 @@
+42979669 42204871 3209 3036 3255 3079 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ccp-s9-facto1.cnf False False

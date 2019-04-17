@@ -1,0 +1,1 @@
+20153200 24149220 873.2 1514.0 886 1536 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-42-0-0.cnf False False

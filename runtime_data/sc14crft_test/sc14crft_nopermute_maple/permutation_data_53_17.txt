@@ -1,0 +1,1 @@
+83400800 83370538 4434 4559 4501 4628 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-76-1-1.cnf False False

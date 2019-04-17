@@ -1,0 +1,1 @@
+38552784 39703039 2956 3227 3000 3276 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ccp-s9-facto1.cnf False False

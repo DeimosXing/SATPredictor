@@ -1,0 +1,1 @@
+56269123 57604743 4047 3840 4113 3900 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-72-1-1.cnf False False

@@ -1,0 +1,1 @@
+74074953 74074953 2059 1970 2092 2000 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/bvslt_13916.cnf False False

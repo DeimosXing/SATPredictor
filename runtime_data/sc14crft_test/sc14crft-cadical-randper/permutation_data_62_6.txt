@@ -1,0 +1,1 @@
+3310949 6558102 475.8 796.4 484 810 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n10_d6_c3_num1.cnf False False

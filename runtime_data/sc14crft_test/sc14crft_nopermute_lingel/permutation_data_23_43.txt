@@ -1,0 +1,1 @@
+701408 714525 14.8 14.1 15 14 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_8x8#22_11.cnf True True

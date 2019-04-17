@@ -1,0 +1,1 @@
+14768504 14768504 1051 1058 1067 1074 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mod2-rand3bip-sat-270-2.sat05-2249.reshuffled-07.cnf True True

@@ -1,0 +1,1 @@
+11739402 3054659 5000.1 751.0 5113 769 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/aes_32_2_keyfind_3.cnf True True

@@ -1,0 +1,1 @@
+5085839 5085839 1014 1013 1030 1028 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/frb80-14-2.used-as.sat04-880.cnf True True

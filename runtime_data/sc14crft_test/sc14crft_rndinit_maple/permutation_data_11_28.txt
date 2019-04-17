@@ -1,0 +1,1 @@
+6311909 0 2630 0 2669 0 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n044_goal003.cnf True False

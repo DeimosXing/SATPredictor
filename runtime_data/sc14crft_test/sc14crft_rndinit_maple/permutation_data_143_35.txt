@@ -1,0 +1,1 @@
+56304386 53234934 3253 3237 3303 3288 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-65-1-1.cnf False False

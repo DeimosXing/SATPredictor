@@ -1,0 +1,1 @@
+10880389 10880389 2504 2512 2546 2555 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/jkkk-one-one-10-34-sat.cnf True True

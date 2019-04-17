@@ -1,0 +1,1 @@
+0 7026676 0 822.8 0 834 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/sgen3-n200-s39840374-sat.cnf False True

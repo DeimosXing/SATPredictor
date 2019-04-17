@@ -1,0 +1,1 @@
+52463490 54386231 3408 3427 3496 3638 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-65-1-1.cnf False False

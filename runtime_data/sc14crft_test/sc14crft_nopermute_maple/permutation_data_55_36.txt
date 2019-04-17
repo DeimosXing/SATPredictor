@@ -1,0 +1,1 @@
+13037236 13037236 425 422 432 429 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crn_20_361_s.cnf True True

@@ -1,0 +1,1 @@
+33463086 18788431 4259.1 1784.6 4326 1812 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/frb80-14-2.used-as.sat04-880.cnf True True

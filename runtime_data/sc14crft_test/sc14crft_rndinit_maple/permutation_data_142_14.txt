@@ -1,0 +1,1 @@
+0 9600477 0 4988 0 5069 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n051_goal004.cnf False True

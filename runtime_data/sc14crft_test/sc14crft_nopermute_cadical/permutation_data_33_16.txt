@@ -1,0 +1,1 @@
+1879177 1808145 84.0 67.6 85 69 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/EDP3-10000.cnf True True

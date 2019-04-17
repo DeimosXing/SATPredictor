@@ -1,0 +1,1 @@
+35235111 34478901 2770 2649 2811 2689 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-47-1-1.cnf False False

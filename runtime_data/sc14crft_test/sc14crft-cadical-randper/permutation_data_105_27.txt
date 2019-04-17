@@ -1,0 +1,1 @@
+823461 970876 207.4 299.6 210 304 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n052_goal004.cnf True True

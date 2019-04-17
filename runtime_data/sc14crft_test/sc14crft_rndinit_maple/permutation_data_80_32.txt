@@ -1,0 +1,1 @@
+27941721 27941721 1952 1957 1984 1990 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/edges-025-4-1237111-1-00.cnf False False

@@ -1,0 +1,1 @@
+25090872 1128776 3854.1 116.0 3919 118 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/jkkk-random-132906006427000-10-10-35-OR-sat.cnf True True

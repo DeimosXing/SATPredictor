@@ -1,0 +1,1 @@
+101953 15175896 0.2 21.9 0 22 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ndist.b.25489.cnf True True

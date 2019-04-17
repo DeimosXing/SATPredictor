@@ -1,0 +1,1 @@
+38780778 38306816 4077.1 3728.3 4147 3789 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/edges-024-4-1208111-1-00.cnf False False

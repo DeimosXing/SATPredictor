@@ -1,0 +1,1 @@
+952656 939714 113.6 106.4 115 108 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n10_d6_c2_num17.cnf False False

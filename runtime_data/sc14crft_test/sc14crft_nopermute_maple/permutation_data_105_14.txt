@@ -1,0 +1,1 @@
+7777996 4403012 4659 3026 4732 3071 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n052_goal004.cnf True True

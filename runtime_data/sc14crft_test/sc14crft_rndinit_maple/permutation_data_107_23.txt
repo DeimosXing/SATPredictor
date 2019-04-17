@@ -1,0 +1,1 @@
+47517004 46755368 3639 3307 3692 3356 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ccp-s9-facto1.cnf False False

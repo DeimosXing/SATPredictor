@@ -1,0 +1,1 @@
+112546137 108667092 4687 4688 4763 4762 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/bvult_16967.cnf False False

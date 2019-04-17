@@ -1,0 +1,1 @@
+48239883 47333328 3134 3134 3180 3182 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-63-1-1.cnf False False

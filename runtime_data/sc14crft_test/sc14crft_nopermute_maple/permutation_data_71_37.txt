@@ -1,0 +1,1 @@
+48033407 51284633 4539 4830 4605 4903 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-60-0-1.cnf False False

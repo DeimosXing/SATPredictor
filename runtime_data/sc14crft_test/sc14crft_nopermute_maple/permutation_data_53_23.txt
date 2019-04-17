@@ -1,0 +1,1 @@
+83297854 87334446 4808 4674 4888 4745 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-76-1-1.cnf False False

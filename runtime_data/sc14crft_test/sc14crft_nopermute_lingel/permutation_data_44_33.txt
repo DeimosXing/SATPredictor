@@ -1,0 +1,1 @@
+4476357 6694255 2433.9 4580.6 2469 4646 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n081_goal007.cnf True True

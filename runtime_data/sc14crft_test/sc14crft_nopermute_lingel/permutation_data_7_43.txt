@@ -1,0 +1,1 @@
+20776 13304 1.6 1.0 1 1 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/Chvatal-k5.cnf True True

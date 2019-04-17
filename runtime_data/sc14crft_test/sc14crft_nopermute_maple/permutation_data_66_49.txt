@@ -1,0 +1,1 @@
+55616522 55020830 3321 3180 3370 3226 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-57-1-1.cnf False False

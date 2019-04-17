@@ -1,0 +1,1 @@
+8686366 8076351 4312 4012 4381 4068 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n051_goal004.cnf True True

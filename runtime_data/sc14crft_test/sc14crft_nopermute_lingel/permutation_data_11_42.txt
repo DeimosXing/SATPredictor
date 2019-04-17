@@ -1,0 +1,1 @@
+4011047 368044 1628.4 82.9 1650 84 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n044_goal003.cnf True True

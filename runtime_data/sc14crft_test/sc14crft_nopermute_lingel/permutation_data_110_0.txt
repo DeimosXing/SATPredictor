@@ -1,0 +1,1 @@
+16570790 12344970 325.8 237.0 330 240 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/EDP3-8000.cnf True True

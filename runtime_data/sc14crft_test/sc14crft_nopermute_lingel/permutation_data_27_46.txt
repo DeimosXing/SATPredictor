@@ -1,0 +1,1 @@
+28470 63540 0.2 0.4 0 0 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_4x4#6_12.cnf True True

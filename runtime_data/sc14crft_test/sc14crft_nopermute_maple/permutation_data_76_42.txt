@@ -1,0 +1,1 @@
+33489107 33489107 1981 2008 2013 2038 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/edges-024-4-1208111-1-00.cnf False False

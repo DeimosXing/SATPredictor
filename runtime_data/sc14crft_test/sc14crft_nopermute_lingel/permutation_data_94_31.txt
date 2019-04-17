@@ -1,0 +1,1 @@
+6119613 6664251 783.5 693.0 794 702 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mod2c-rand3bip-sat-240-3.shuffled-as.sat05-2520.cnf True True

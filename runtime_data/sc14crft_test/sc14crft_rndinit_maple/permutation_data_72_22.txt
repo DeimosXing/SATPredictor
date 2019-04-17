@@ -1,0 +1,1 @@
+3820546 3820546 249 247 253 251 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/edges-072-3-7925777-19.cnf False False

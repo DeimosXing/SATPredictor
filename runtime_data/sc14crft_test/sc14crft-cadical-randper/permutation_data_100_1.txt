@@ -1,0 +1,1 @@
+32482041 33943053 927.7 1276.5 943 1297 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-54-1-1.cnf False False

@@ -1,0 +1,1 @@
+406917 176220 16.1 4.1 16 4 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/em_7_4_9_fbc.cnf True True

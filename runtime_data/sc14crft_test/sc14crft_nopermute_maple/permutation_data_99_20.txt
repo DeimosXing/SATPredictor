@@ -1,0 +1,1 @@
+107488451 109467198 4044 4381 4104 4447 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/bvult_16967.cnf False False

@@ -1,0 +1,1 @@
+222667885 222667885 450 433 459 441 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ndist.b.27485.cnf True True

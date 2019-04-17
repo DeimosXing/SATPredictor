@@ -1,0 +1,1 @@
+119332035 127967717 5000.0 5000.0 5096 5085 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/MD5-31-4.cnf True True

@@ -1,0 +1,1 @@
+55185626 54597669 3319 3311 3372 3363 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-57-1-1.cnf False False

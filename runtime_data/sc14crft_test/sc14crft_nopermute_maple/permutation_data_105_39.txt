@@ -1,0 +1,1 @@
+5992671 6732047 3899 4167 3961 4230 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n052_goal004.cnf True True

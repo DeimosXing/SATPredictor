@@ -1,0 +1,1 @@
+11550443 10224992 1148.0 1046.5 1172 1069 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/UTI-20-10p1.cnf True True

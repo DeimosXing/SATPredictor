@@ -1,0 +1,1 @@
+6698356 6698356 41 42 41 43 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/EDP3-9000.cnf True True

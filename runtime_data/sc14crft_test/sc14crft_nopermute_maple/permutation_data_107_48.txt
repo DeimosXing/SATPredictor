@@ -1,0 +1,1 @@
+41120994 40330886 3260 3275 3309 3324 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ccp-s9-facto1.cnf False False

@@ -1,0 +1,1 @@
+9238292 10007605 853.3 866.0 868 881 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/hid-uns-enc-6-1-0-0-0-0-26462.cnf False False

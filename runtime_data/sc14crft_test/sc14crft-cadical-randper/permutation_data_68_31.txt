@@ -1,0 +1,1 @@
+50907990 12645029 42.4 51.4 43 52 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/shift1add.25952.cnf False False

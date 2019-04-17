@@ -1,0 +1,1 @@
+21543838 33641299 640.6 1393.6 650 1414 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-47-1-1.cnf False False

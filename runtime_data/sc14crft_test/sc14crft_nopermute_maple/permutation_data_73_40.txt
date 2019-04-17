@@ -1,0 +1,1 @@
+46795178 46366775 3110 3103 3159 3152 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-63-1-1.cnf False False

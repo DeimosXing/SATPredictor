@@ -1,0 +1,1 @@
+34258523 32903905 2734 2731 2778 2773 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-47-1-1.cnf False False

@@ -1,0 +1,1 @@
+2180957 4358837 826.4 1944.3 838 1971 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n051_goal004.cnf True True

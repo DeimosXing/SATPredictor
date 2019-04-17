@@ -1,0 +1,1 @@
+34977254 33470490 2770 2728 2811 2770 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-46-1-1.cnf False False

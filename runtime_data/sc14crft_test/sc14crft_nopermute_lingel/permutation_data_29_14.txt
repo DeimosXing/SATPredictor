@@ -1,0 +1,1 @@
+4599104 3013995 1214.5 551.5 1231 559 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/em_7_4_8_cmp.cnf True True

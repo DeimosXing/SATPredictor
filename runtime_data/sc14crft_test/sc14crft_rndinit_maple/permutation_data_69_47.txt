@@ -1,0 +1,1 @@
+6584094 6584094 258 259 262 264 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n10_d6_c2_num17.cnf False False

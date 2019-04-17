@@ -1,0 +1,1 @@
+45123139 45123139 3375 3382 3428 3435 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-63-1-1.cnf False False

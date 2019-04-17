@@ -1,0 +1,1 @@
+16041117 16113902 2557 2539 2597 2578 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-40-0-0.cnf False False

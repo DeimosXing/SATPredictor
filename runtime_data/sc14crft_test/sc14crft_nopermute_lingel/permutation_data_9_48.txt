@@ -1,0 +1,1 @@
+8330676 13056104 62.6 150.1 63 152 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_8x8#22_20.cnf True True

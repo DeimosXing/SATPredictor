@@ -1,0 +1,1 @@
+228228300 228228300 299 311 304 317 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ndist.b.25489.cnf True True

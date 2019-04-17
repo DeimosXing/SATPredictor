@@ -1,0 +1,1 @@
+108667092 108667092 4687 4670 4762 4739 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/bvult_16967.cnf False False

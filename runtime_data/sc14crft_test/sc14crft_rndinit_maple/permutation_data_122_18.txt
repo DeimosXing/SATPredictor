@@ -1,0 +1,1 @@
+36892612 38771965 2666 2753 2705 2793 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-46-1-1.cnf False False

@@ -1,0 +1,1 @@
+6824781 6824781 2935 2896 2981 2941 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n051_goal004.cnf True True

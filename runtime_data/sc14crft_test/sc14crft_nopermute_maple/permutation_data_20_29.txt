@@ -1,0 +1,1 @@
+54239710 54239710 3602 3503 3956 3793 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-61-1-1.cnf False False

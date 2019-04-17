@@ -1,0 +1,1 @@
+3438787 3438787 2761 2729 2802 2769 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/LABS_n052_goal004.cnf True True

@@ -1,0 +1,1 @@
+8263342 7831700 278.2 301.5 291 315 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n12_d6_c4_num23.cnf False False

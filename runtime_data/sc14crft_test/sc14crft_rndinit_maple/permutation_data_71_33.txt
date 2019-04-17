@@ -1,0 +1,1 @@
+40150854 48982837 4027 4772 4092 4850 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-60-0-1.cnf False False

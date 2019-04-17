@@ -1,0 +1,1 @@
+80302826 81361577 4464 4616 4534 4688 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-76-1-1.cnf False False

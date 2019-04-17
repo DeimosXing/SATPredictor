@@ -1,0 +1,1 @@
+15344359 15351367 2697 2741 2737 2784 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/Robertson-k8.cnf False False

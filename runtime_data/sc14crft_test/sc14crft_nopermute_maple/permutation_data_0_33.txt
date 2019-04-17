@@ -1,0 +1,1 @@
+223357619 223357619 328 355 336 363 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ndist.b.27485.cnf True True

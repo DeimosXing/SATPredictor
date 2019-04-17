@@ -1,0 +1,1 @@
+1123193 1126201 140.1 146.4 143 150 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/crafted_n10_d6_c2_num16.cnf False False

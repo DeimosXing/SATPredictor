@@ -1,0 +1,1 @@
+0 0 0 0 0 0 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/connm-ue-csp-sat-n1200-d0.02-s1099787414.sat05-542.reshuffled-07.cnf False False

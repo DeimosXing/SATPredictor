@@ -1,0 +1,1 @@
+3834474 3834474 252 252 256 256 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/edges-072-3-7925777-19.cnf False False

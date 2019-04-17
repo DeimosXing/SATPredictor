@@ -1,0 +1,1 @@
+1413784 1413784 94 89 95 91 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/edges-070-3-10062999-36.cnf False False

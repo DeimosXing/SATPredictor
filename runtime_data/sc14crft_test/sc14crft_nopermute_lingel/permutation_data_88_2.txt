@@ -1,0 +1,1 @@
+157078363 170557209 4999.9 4999.9 5106 5088 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-app/006-23-96.cnf True True

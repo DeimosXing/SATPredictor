@@ -1,0 +1,1 @@
+9302963 9302963 2230 2160 2262 2191 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/frb80-14-2.used-as.sat04-880.cnf True True

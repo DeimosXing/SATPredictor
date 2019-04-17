@@ -1,0 +1,1 @@
+86032142 85645150 4622 4980 4696 5059 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/rook-76-1-1.cnf False False

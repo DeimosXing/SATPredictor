@@ -1,0 +1,1 @@
+40673646 41120994 3343 3293 3394 3342 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/ccp-s9-facto1.cnf False False

@@ -1,0 +1,1 @@
+124954761 126704694 1638.2 1906.1 1664 1937 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/mrpp_8x8#22_20.cnf True True

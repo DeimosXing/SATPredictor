@@ -1,0 +1,1 @@
+1852685 2671724 103.7 314.6 105 320 /global/scratch/SATinstances/SATCompetition/2014SATInstances/2014_SAT_Competition/sc14-crafted/EDP3-11000.cnf True True
