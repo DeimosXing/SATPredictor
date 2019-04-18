@@ -109,7 +109,8 @@ def fit_val_cls(model, X, y):
         acc = accuracy_score(y_test, y_pre)
         precision = precision_score(y_test, y_pre)
         recall = recall_score(y_test, y_pre)
-        print('accuracy:' + str(acc)+' precision' + str(precision)+' recall:' + str(recall))
+        balanced_acc = balanced_accuracy_score(y_test, y_pre)
+        print('accuracy:' + str(acc)+' precision' + str(precision)+' recall:' + str(recall)+' balanced accuracy:'+str(balanced_acc))
         baseline = [1]*len(y_test)
         acc = accuracy_score(y_test, baseline)
         print('fraction of True values:' + str(acc))
@@ -119,11 +120,11 @@ rfc =RandomForestClassifier(n_estimators=10,
                             max_features=0.5,
                             min_samples_split=3)
 
-lgbm_cls = LGBMClassifier(boosting_type='rf',learning_rate=0.01,n_estimators = 10,
+lgbm_cls = LGBMClassifier(boosting_type='rf',learning_rate=0.1,n_estimators = 100,
                       bagging_freq=1,bagging_fraction=0.5,feature_fraction=0.5,
-                      num_leaves=30,max_depth=5,min_data_in_leaf=5
+                      num_leaves=5,max_depth=4,min_data_in_leaf=3
              )
-# fit_val_cls(lgbm_cls, data_df, y_cls)
+fit_val_cls(lgbm_cls, data_df, y_cls)
 
 params_cls = {'max_depth':range(4,14,2),
               'num_leaves':range(5,20,4),
@@ -132,9 +133,11 @@ params_cls = {'max_depth':range(4,14,2),
 gsearch = GridSearchCV(estimator=LGBMClassifier(boosting_type='rf',learning_rate=0.1,n_estimators = 10,
                       bagging_freq=1,bagging_fraction=0.5,feature_fraction=0.5,
              ), param_grid=params_cls,scoring='balanced_accuracy',cv=5)
-gsearch.fit(data_df, y_cls)
-print(gsearch.best_params_)
-print(gsearch.best_score_)
+# gsearch.fit(data_df, y_cls)
+# print(gsearch.best_params_)
+# print(gsearch.best_score_)
+# {'max_depth': 4, 'min_data_in_leaf': 3, 'n_estimators': 100, 'num_leaves': 5}
+# 0.9985754985754985
 
 
 
