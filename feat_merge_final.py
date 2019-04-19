@@ -11,7 +11,8 @@ print(len(l))
 l3 = sat12feat[sat12feat['dataset']=='sc14-app']
 print(len(l3))
 temp2 = pd.merge(sat12feat,rtfeat,on=['cnf_basename'], how='left')
+temp2.fillna(10000, inplace=True)
 print(len(temp2))
-# temp2.to_csv('data_final.csv',index=False)
+temp2.to_csv('data_final_10000.csv',index=False)
 pass
 
